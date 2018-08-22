@@ -1,0 +1,1 @@
+# HexoNewFile.alfredworkflow
